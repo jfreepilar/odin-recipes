@@ -1,0 +1,39 @@
+body {
+    background-color:ivory
+}
+
+.main {
+    background-color: goldenrod;
+    color: white;
+    margin-left: 55px;
+}
+
+.odin {
+    position: absolute;
+    top: 15px;
+}
+
+.dish {
+    font-size: 50px;
+    text-align: center;
+}
+
+.taco {
+    /* to center an image */
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1px;
+    border: 3px solid #021a40;
+}
+
+.how {
+    text-align: center;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+ul, ol {
+    display: inline-block;
+    text-align: left;
+}
