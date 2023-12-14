@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    font-size: 50px;
+    color: goldenrod;
+    text-align: center;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.mid-container {
+    background-image: url("https://images.pexels.com/photos/4033636/pexels-photo-4033636.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    margin-top: 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 30%;
+    height: 550px;
+}
+
+.feat {
+    font-size: 40px;
+    text-align: center;
+    color: goldenrod;
+    margin-top: 40px;
+
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+a:hover {
+    color:blue;
+}
+
+.recipe1-container {
+    padding: 20px;
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+}
+
+.recipe1 {
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.recipe2-container {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.recipe2 {
+    /* padding: 0 5px; */
+    width: 650px;
+    display: flex;
+    margin-left: 10px;
+    justify-content: space-around;
+}
+
+.lentil {
+    margin-left: 170px;
+}
