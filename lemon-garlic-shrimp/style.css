@@ -1,0 +1,37 @@
+body {
+    background-color:ivory
+}
+
+.main {
+    background-color: goldenrod;
+    color: white;
+    margin-left: 55px;
+}
+
+.odin {
+    position: absolute;
+    top: 15px;
+}
+
+.dish {
+    font-size: 50px;
+    text-align: center;
+}
+
+.shrimp {
+    /* to center an image */
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1px;
+    border: 3px solid #021a40;
+}
+
+.how {
+    text-align: center;
+}
+
+ul, ol {
+    display: inline-block;
+    text-align: left;
+}
