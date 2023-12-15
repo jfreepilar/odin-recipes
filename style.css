@@ -48,25 +48,13 @@ a:hover {
 }
 
 .recipe1 {
-    width: 900px;
-    display: flex;
-    justify-content: space-between;
-}
-
-.recipe2-container {
-    padding: 20px;
+    width: 700px;
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
-.recipe2 {
-    /* padding: 0 5px; */
-    width: 650px;
-    display: flex;
-    margin-left: 10px;
-    justify-content: space-around;
-}
+.item {
+    margin: 20px;
+}   
 
-.lentil {
-    margin-left: 170px;
-}
