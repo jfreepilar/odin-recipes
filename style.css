@@ -48,9 +48,9 @@ a:hover {
 }
 
 .recipe1 {
-    width: 900px;
+    width: 600px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 .recipe2-container {
@@ -60,13 +60,8 @@ a:hover {
 }
 
 .recipe2 {
-    /* padding: 0 5px; */
-    width: 650px;
+    width: 600px;
     display: flex;
-    margin-left: 10px;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 
-.lentil {
-    margin-left: 170px;
-}
