@@ -48,6 +48,7 @@ a:hover {
 }
 
 .recipe1 {
+<<<<<<< HEAD
     width: 600px;
     display: flex;
     justify-content: space-evenly;
@@ -55,13 +56,23 @@ a:hover {
 
 .recipe2-container {
     padding: 20px;
+=======
+    width: 700px;
+>>>>>>> a55aed48a563fa14b5693a8e34acf7a9d9370c21
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
+<<<<<<< HEAD
 .recipe2 {
     width: 600px;
     display: flex;
     justify-content: space-evenly;
 }
+=======
+.item {
+    margin: 20px;
+}   
+>>>>>>> a55aed48a563fa14b5693a8e34acf7a9d9370c21
 
